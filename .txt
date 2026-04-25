@@ -1,0 +1,15 @@
+JavaScript is a High-level intrepretd programming language mainly used to make a web pages interactive and dynamic.
+it runs in the browser and can also run on server using Node.js ..
+
+# History of JavaScript
+1. JavaScript was created at 1995.
+2. developed by Brendan Eich.
+3. First name of JavaScript is Livescript.
+4. Then finally it was named JavaScript.
+
+# Js Arithmetic Operators.
+
+Operators is a symbol or keyword that tells a computer to perform specific actions such as mathematical, Logical 
+or comparisons.
+
+1) (+) Arithmetic operators 
